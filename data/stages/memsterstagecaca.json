@@ -1,0 +1,36 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-4156, -2329],
+      "scale": [4, 4],
+      "animType": "sparrow",
+      "name": "stageBack",
+      "isPixel": false,
+      "assetPath": "stageback",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.3,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1489.5, 885],
+      "cameraOffsets": [-100, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [0, 885],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [0, 0],
+      "position": [751.5, 787]
+    }
+  },
+  "name": "Main Stage memstar"
+}

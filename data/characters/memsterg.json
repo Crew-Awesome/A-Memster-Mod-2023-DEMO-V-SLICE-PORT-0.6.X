@@ -1,0 +1,57 @@
+{
+    "version": "1.0.0",
+    "name": "Memsterg",
+    "assetPath": "characters/memg",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": null,
+    "healthIcon": {
+        "id": "memster",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "singDOWN",
+            "prefix": "down",
+            "offsets": [
+                39,
+                21
+            ]
+        },
+        {
+            "name": "idle",
+            "prefix": "idle",
+            "offsets": [
+                -73,
+                107
+            ]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "left",
+            "offsets": [
+                -75,
+                109
+            ]
+        },
+        {
+            "name": "singUP",
+            "prefix": "up",
+            "offsets": [
+                -77,
+                142
+            ]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "right",
+            "offsets": [
+                -78,
+                113
+            ]
+        }
+    ],
+    "flipX": false
+}
